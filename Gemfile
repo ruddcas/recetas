@@ -20,7 +20,7 @@ gem 'jquery-rails'
 gem "bootstrap-sass", ">= 3.4.1"
 gem 'sass-rails', '~> 5.0'
 #gem 'pg', '~> 1.1', '>= 1.1.4'
-gem 'pg'
+#gem 'pg'
 # Use Puma as the app sepostgresqlrver
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
