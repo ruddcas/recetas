@@ -22,7 +22,7 @@ gem 'sass-rails', '~> 5.0'
 #gem 'pg', '~> 1.1', '>= 1.1.4'
 #gem 'pg'
 # Use Puma as the app sepostgresqlrver
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 3.12'
 # Use SCSS for stylesheets
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
